@@ -1,0 +1,8 @@
+D:\Practice\Assignment_6-8-15\BookCollection\BookCollection\bin\Debug\BookCollection.exe.config
+D:\Practice\Assignment_6-8-15\BookCollection\BookCollection\bin\Debug\BookCollection.exe
+D:\Practice\Assignment_6-8-15\BookCollection\BookCollection\bin\Debug\BookCollection.pdb
+D:\Practice\Assignment_6-8-15\BookCollection\BookCollection\obj\Debug\BookCollection.exe
+D:\Practice\Assignment_6-8-15\BookCollection\BookCollection\obj\Debug\BookCollection.pdb
+D:\Startingdays\Practice\Assignment_6-8-15\BookCollection\BookCollection\bin\Debug\BookCollection.exe.config
+D:\Startingdays\Practice\Assignment_6-8-15\BookCollection\BookCollection\obj\Debug\BookCollection.exe
+D:\Startingdays\Practice\Assignment_6-8-15\BookCollection\BookCollection\obj\Debug\BookCollection.pdb
